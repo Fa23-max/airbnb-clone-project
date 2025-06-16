@@ -65,7 +65,7 @@
 - Indexing: Implement indexes for fast retrieval of frequently accessed data.
 - Caching: Use caching strategies to reduce database load and improve performance.
 
-## Features Overview
+## Feature Breakdown
 ### API Documentation
 - OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
 - Django REST Framework: Provides a comprehensive RESTful API for handling CRUD operations on user and property data.
