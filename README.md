@@ -29,7 +29,7 @@
 | Product Owner |	Defines requirements, prioritizes features, represents stakeholders |
 | Scrum Master |	Facilitates agile processes, removes blockers, organizes meetings |
 
-## Planned Components
+## UI Component Patterns
 ### Navbar
 - Logo
 - Search bar
