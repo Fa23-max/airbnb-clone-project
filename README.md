@@ -29,6 +29,12 @@
 | Product Owner |	Defines requirements, prioritizes features, represents stakeholders |
 | Scrum Master |	Facilitates agile processes, removes blockers, organizes meetings |
 
+## Team Roles
+- Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.
+- Database Administrator: Manages database design, indexing, and optimizations.
+- DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
+- QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+
 ## UI Component Patterns
 ### Navbar
 - Logo
@@ -45,3 +51,4 @@
 - Company information
 - Social media links
 - Copyright information
+- 
