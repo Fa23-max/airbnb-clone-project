@@ -88,3 +88,6 @@
 ### Database Optimizations
 - Indexing: Implement indexes for fast retrieval of frequently accessed data.
 - Caching: Use caching strategies to reduce database load and improve performance.
+##User Authentication
+- Endpoints: /users/, /users/{user_id}/
+- Features: Register new users, authenticate, and manage user profiles
